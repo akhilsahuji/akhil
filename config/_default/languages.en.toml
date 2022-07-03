@@ -13,9 +13,9 @@ logo = "img/logo.jpg"
 dateFormat = "2 January 2006"
 
 [author]
-   name = "Akhil Sahu"
+   name = "akhil sahu"
    image = "img/author.jpg"
-   headline = "Hi _there_ :wave:"
+   headline = "hello :wave:"
 
 
    bio = "I’m currently working on personal projects and contributing to open-source."
